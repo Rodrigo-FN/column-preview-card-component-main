@@ -3,7 +3,7 @@
 ### Column preview card
 
 
-![](./src/images/readme-img.png)
+![](./src/images/readme-img-2.png)
 
 ### Links
 
